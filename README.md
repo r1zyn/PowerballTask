@@ -1,4 +1,4 @@
 # Powerball Task
 
-Computer science class C# task to simulate the New Zealand lottery, Powerball.
+Computer science class C# task to simulate Powerball.
 Todo: JavaScript Powerball simulation site
